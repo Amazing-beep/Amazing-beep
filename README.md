@@ -1,17 +1,3 @@
-## Hi there 👋
-
-- 🎓 Software Engineering student at African Leadership University  
-- 💻 Passionate about tech for good: Python, HTML, CSS, JavaScript (in progress)  
-- 🌍 Founder of *ChopNow* – a food rescue platform fighting food waste in African cities  
-- 🎯 Focused on software development, healthcare innovation, and social impact  
-- 🛠️ Currently learning front-end development (HTML/CSS complete; JavaScript ongoing)  
-- 👩🏽‍💼 Volunteer consultant at 180 Degrees Consulting | Event planner & host  
-- 📚 Lifelong learner – active on Coursera, YouTube, and Codecademy  
-- ✍🏽 Ghostwriter & content creator | YouTube: [becoming__amazing](https://www.youtube.com/channel/UChBj38GiwwC1kb8liIxKDUA)  
-- 🌱 Driven by values: integrity, determination, respect, and service  
-- 📍 From Eswatini 🇸🇿 | Based in Kigali, Rwanda 🇷🇼  
-- 🌟 Mission: Build tech solutions that empower communities and unlock potential
-
 # 💫 About Me:
 <br>- 🎓 Software Engineering student at African Leadership University  <br>- 💻 Passionate about tech for good: Python, HTML, CSS, JavaScript (in progress)  <br>- 🌍 Founder of *ChopNow* – a food rescue platform fighting food waste in African cities  <br>- 🎯 Focused on software development, healthcare innovation, and social impact  <br>- 🛠️ Currently learning front-end development (HTML/CSS complete; JavaScript ongoing)  <br>- 👩🏽‍💼 Volunteer consultant at 180 Degrees Consulting | Event planner & host  <br>- 📚 Lifelong learner – active on Coursera, YouTube, and Codecademy  <br>- ✍🏽 Ghostwriter & content creator | YouTube: [becoming__amazing](https://www.youtube.com/channel/UChBj38GiwwC1kb8liIxKDUA)  <br>- 🌱 Driven by values: integrity, determination, respect, and service  <br>- 📍 From Eswatini 🇸🇿 | Based in Kigali, Rwanda 🇷🇼  <br>- 🌟 Mission: Build tech solutions that empower communities and unlock potential<br>
 
